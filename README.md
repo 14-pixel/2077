@@ -7,4 +7,4 @@ REQUIREMENTS:
 Pretty much any command line.
 
 HOW TO RUN:
-Type game.exe inside the game folder.
+Type game.exe inside the game folder in the command line.
