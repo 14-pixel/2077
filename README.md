@@ -4,4 +4,4 @@ Play as an ex-scientist which worked on a power plant in 2077 but got frozen aft
 For any bugs and compilation errors send a gmail to zaionnovaes775@gmail.com
 
 REQUIREMENTS:
-C++ compiler.
+Pretty much any command line.
